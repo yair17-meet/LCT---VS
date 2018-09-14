@@ -1,0 +1,30 @@
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.exe.config
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.exe
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.pdb
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.Design.dll
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.dll
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.Fonts.dll
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csprojResolveAssemblyReference.cache
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.CPanel.resources
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.Properties.Resources.resources
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csproj.GenerateResource.Cache
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.exe
+c:\users\yair\documents\visual studio 2017\Projects\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.pdb
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csprojResolveAssemblyReference.cache
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.CPanel.resources
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.Properties.Resources.resources
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csproj.GenerateResource.Cache
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.exe
+C:\Users\Yair\OneDrive\יאיר כללי\לימודים כללי\פרויקט מדעית\Windows Form App 2.0\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.pdb
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csprojResolveAssemblyReference.cache
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.CPanel.resources
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem_3._0.Properties.Resources.resources
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.csproj.GenerateResource.Cache
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.exe
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\obj\Debug\Algorithem 3.0.pdb
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.exe.config
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.exe
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\Algorithem 3.0.pdb
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.dll
+C:\Users\Yair\Desktop\Algorithem 3.0\Algorithem 3.0\bin\Debug\MetroFramework.Fonts.dll
